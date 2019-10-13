@@ -15,3 +15,8 @@ eureka:
 
 server:
   port: 8810
+
+lable:
+  release
+env:
+  dev
