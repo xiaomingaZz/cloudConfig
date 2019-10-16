@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/order?useUnicode=true&useSSL=true
+    username: root
+    password: 123456
+  application:
+    name: product
+  jpa:
+    show-sql: true
