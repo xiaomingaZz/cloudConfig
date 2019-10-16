@@ -1,5 +1,5 @@
 env:
-  devO
+  dev
 server:
   port: 8811
 spring:
